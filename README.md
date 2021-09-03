@@ -1,6 +1,4 @@
-# Add-contact-with-frontend-and-backend
-
-As this project does not contains node_modules for both angular and node js we can install by below.
+#As this project does not contains node_modules for both angular and node js we can install by below.
 
 **we can install node_modules in Angular by below command**</br>
 #npm install</br>
